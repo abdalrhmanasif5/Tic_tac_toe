@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 class TicTacToe:
-    def _init_(self):
+    def __init__(self):
         self.root = tk.Tk()
         self.root.title("Tic Tac Toe")
         self.buttons = [[None for _ in range(3)] for _ in range(3)]
@@ -120,6 +120,6 @@ class TicTacToe:
         self.root.mainloop()
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     game = TicTacToe()
     game.run()
